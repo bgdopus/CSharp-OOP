@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Homework-Defining-Classes-Part 1\Homework-Defining-Classes-Part 1\bin\Debug\Homework-Defining-Classes-Part 1.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Homework-Defining-Classes-Part 1\Homework-Defining-Classes-Part 1\bin\Debug\Homework-Defining-Classes-Part 1.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Homework-Defining-Classes-Part 1\Homework-Defining-Classes-Part 1\bin\Debug\Homework-Defining-Classes-Part 1.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Homework-Defining-Classes-Part 1\Homework-Defining-Classes-Part 1\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Homework-Defining-Classes-Part 1\Homework-Defining-Classes-Part 1\obj\Debug\Homework-Defining-Classes-Part 1.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Homework-Defining-Classes-Part 1\Homework-Defining-Classes-Part 1\obj\Debug\Homework-Defining-Classes-Part 1.pdb
